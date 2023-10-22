@@ -1,0 +1,22 @@
+p {
+    color: whitesmoke;
+}
+
+body {
+    overflow: hidden;
+    background-image: url("FFTablet_1100x.progressive.webp");
+    background-size: 100vw 100vh;
+}
+
+.list-item {
+    list-style: none;
+    color: whitesmoke;
+    float: left;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
